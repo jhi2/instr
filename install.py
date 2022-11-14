@@ -1,0 +1,7 @@
+print('loading')
+print('**************************************************************************************')
+print('welcome to setup')
+print('go to https://mega.nz/folder/EfFEwaQL#VkV1gDVMXKg_0CwqbZ-oyw')
+print('change icons')
+print('loading install.exe')
+print('installing')
